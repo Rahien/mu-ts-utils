@@ -1,0 +1,1 @@
+This package is an unfinished attempt to bring a subset of the features of the [mu-javascript-template](https://github.com/mu-semtech/mu-javascript-template) to an npm package to be used in a more simplistic typescript project.
